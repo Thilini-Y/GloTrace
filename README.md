@@ -1,7 +1,6 @@
 # GloTrace — Travel Planning Assistant
 
-> **Live App:** https://glotrace-63bb3.web.app/#/  
-> **Git Repository:** https://gits-15.sys.kth.se/iprog-students/jingmeng-shunkang-tyka-vt26-project
+> **Live App:** https://glotrace-63bb3.web.app/#/
 
 ---
 
